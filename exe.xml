@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\dist\xData.jar</jar>
+  <outfile>DataPlat.exe</outfile>
+  <errTitle>dataPlat Studio</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Jaji\Desktop\mainIcon.ico</icon>
+  <classPath>
+    <mainClass>com.jajitech.desktop.xdata.Main</mainClass>
+    <cp>lib/l2fprod-common-all-7.3.jar</cp>
+    <cp>lib/commons-io-2.4.jar</cp>
+    <cp>lib/synthetica.jar</cp>
+    <cp>lib/syntheticaBlueLight.jar</cp>
+    <cp>lib/java-json.jar</cp>
+    <cp>lib/json-simple-1.1.1.jar</cp>
+    <cp>lib/gson-2.2.2.jar</cp>
+    <cp>lib/jcalendar-1.4.jar</cp>
+    <cp>lib/jtar-1.1.jar</cp>
+    <cp>lib/jtoaster-1.0.5.jar</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <splash>
+    <file>C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\src\com\jajitech\desktop\xdata\splash.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>60</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+</launch4jConfig>

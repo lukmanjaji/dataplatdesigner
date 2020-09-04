@@ -1,0 +1,187 @@
+
+
+Version:	3.8
+CmdLine:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_32
+Check launcher:	C:\Program Files\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_32
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_40
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_40
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_32
+Ignore:		1.6.0_32
+Runtime used:	1.7.0_40 (64-bit)
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe"
+Args length:	65/32768 chars
+Exit code:	1
+
+
+Version:	3.8
+CmdLine:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_32
+Check launcher:	C:\Program Files\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_32
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_40
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_40
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_32
+Ignore:		1.6.0_32
+Runtime used:	1.7.0_40 (64-bit)
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe" Main
+Args length:	76/32768 chars
+Exit code:	1
+
+
+Version:	3.8
+CmdLine:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_32
+Check launcher:	C:\Program Files\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_32
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_40
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_40
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_32
+Ignore:		1.6.0_32
+Runtime used:	1.7.0_40 (64-bit)
+Add classpath:	lib\antlr-2.7.7.jar
+Add classpath:	lib\c3p0-0.9.2.1.jar
+Add classpath:	lib\hibernate-c3p0-4.3.1.Final.jar
+Add classpath:	lib\mchange-commons-java-0.2.3.4.jar
+Add classpath:	lib\dom4j-1.6.1.jar
+Add classpath:	lib\ehcache-core-2.4.3.jar
+Add classpath:	lib\hibernate-ehcache-4.3.1.Final.jar
+Add classpath:	lib\hibernate-core-4.3.1.Final.jar
+Add classpath:	lib\jboss-logging-3.1.3.GA.jar
+Add classpath:	lib\hibernate-commons-annotations-4.0.4.Final.jar
+Add classpath:	lib\hibernate-entitymanager-4.3.1.Final.jar
+Add classpath:	lib\javassist-3.18.1-GA.jar
+Add classpath:	lib\jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+Add classpath:	lib\slf4j-api-1.6.1.jar
+Add classpath:	lib\slf4j-simple-1.6.1.jar
+Add classpath:	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+Add classpath:	lib\mysql-connector-java-5.1.23-bin.jar
+Add classpath:	lib\l2fprod-common-all-7.3.jar
+Add classpath:	lib\commons-io-2.4.jar
+Add classpath:	lib\synthetica.jar
+Add classpath:	lib\syntheticaBlueLight.jar
+Add classpath:	lib\java-json.jar
+Add classpath:	lib\json-simple-1.1.1.jar
+Add classpath:	lib\gson-2.2.2.jar
+Add classpath:	lib\jcalendar-1.4.jar
+Add classpath:	lib\jtar-1.1.jar
+Add classpath:	lib\jtoaster-1.0.5.jar
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe;lib\antlr-2.7.7.jar;lib\c3p0-0.9.2.1.jar;lib\hibernate-c3p0-4.3.1.Final.jar;lib\mchange-commons-java-0.2.3.4.jar;lib\dom4j-1.6.1.jar;lib\ehcache-core-2.4.3.jar;lib\hibernate-ehcache-4.3.1.Final.jar;lib\hibernate-core-4.3.1.Final.jar;lib\jboss-logging-3.1.3.GA.jar;lib\hibernate-commons-annotations-4.0.4.Final.jar;lib\hibernate-entitymanager-4.3.1.Final.jar;lib\javassist-3.18.1-GA.jar;lib\jboss-transaction-api_1.2_spec-1.0.0.Final.jar;lib\slf4j-api-1.6.1.jar;lib\slf4j-simple-1.6.1.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\mysql-connector-java-5.1.23-bin.jar;lib\l2fprod-common-all-7.3.jar;lib\commons-io-2.4.jar;lib\synthetica.jar;lib\syntheticaBlueLight.jar;lib\java-json.jar;lib\json-simple-1.1.1.jar;lib\gson-2.2.2.jar;lib\jcalendar-1.4.jar;lib\jtar-1.1.jar;lib\jtoaster-1.0.5.jar" com.jajitech.desktop.xdata.Main
+Args length:	899/32768 chars
+Exit code:	1
+
+
+Version:	3.8
+CmdLine:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_32
+Check launcher:	C:\Program Files\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_32
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_40
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_40
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_32
+Ignore:		1.6.0_32
+Runtime used:	1.7.0_40 (64-bit)
+Add classpath:	lib\l2fprod-common-all-7.3.jar
+Add classpath:	lib\commons-io-2.4.jar
+Add classpath:	lib\synthetica.jar
+Add classpath:	lib\syntheticaBlueLight.jar
+Add classpath:	lib\java-json.jar
+Add classpath:	lib\json-simple-1.1.1.jar
+Add classpath:	lib\gson-2.2.2.jar
+Add classpath:	lib\jcalendar-1.4.jar
+Add classpath:	lib\jtar-1.1.jar
+Add classpath:	lib\jtoaster-1.0.5.jar
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe;lib\l2fprod-common-all-7.3.jar;lib\commons-io-2.4.jar;lib\synthetica.jar;lib\syntheticaBlueLight.jar;lib\java-json.jar;lib\json-simple-1.1.1.jar;lib\gson-2.2.2.jar;lib\jcalendar-1.4.jar;lib\jtar-1.1.jar;lib\jtoaster-1.0.5.jar" com.jajitech.desktop.xdata.Main
+Args length:	329/32768 chars
+Exit code:	1
+
+
+Version:	3.8
+CmdLine:	C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe --l4j-debug
+WOW64:		yes
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_32
+Check launcher:	C:\Program Files\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_32
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_40
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_40
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_32
+Ignore:		1.6.0_32
+Runtime used:	1.7.0_40 (64-bit)
+Add classpath:	lib\l2fprod-common-all-7.3.jar
+Add classpath:	lib\commons-io-2.4.jar
+Add classpath:	lib\synthetica.jar
+Add classpath:	lib\syntheticaBlueLight.jar
+Add classpath:	lib\java-json.jar
+Add classpath:	lib\json-simple-1.1.1.jar
+Add classpath:	lib\gson-2.2.2.jar
+Add classpath:	lib\jcalendar-1.4.jar
+Add classpath:	lib\jtar-1.1.jar
+Add classpath:	lib\jtoaster-1.0.5.jar
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Jaji\Dropbox\My Docs\Softwares\xData\DataPlat.exe;lib\l2fprod-common-all-7.3.jar;lib\commons-io-2.4.jar;lib\synthetica.jar;lib\syntheticaBlueLight.jar;lib\java-json.jar;lib\json-simple-1.1.1.jar;lib\gson-2.2.2.jar;lib\jcalendar-1.4.jar;lib\jtar-1.1.jar;lib\jtoaster-1.0.5.jar" com.jajitech.desktop.xdata.Main
+Args length:	329/32768 chars
+Exit code:	1
